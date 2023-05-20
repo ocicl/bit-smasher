@@ -1,0 +1,9 @@
+* bit-smasher
+
+Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/thephoeron/bit-smasher.git |
+| commit  | aa9e950                                           |
+| systems | bit-smasher                                       |
+|---------+---------------------------------------------------|
